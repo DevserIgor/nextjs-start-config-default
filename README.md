@@ -1,10 +1,13 @@
 <p align="center">
-  <a href="https://aluiziodeveloper.com.br/">
-    <img alt="Aluizio Developer" src="https://avatars.githubusercontent.com/u/50743713?v=4" width="200" />
+  <a href="https://www.linkedin.com/in/igor-silva-92ab657b/">
+    <img alt="DevSerIgor" src="https://avatars.githubusercontent.com/u/50743713?v=4" style="border-radius:50%" width="200" height="200" />
   </a>
 </p>
 <h2 align="center">
-Este Projeto é apenas para poder inicar um projeto next pela primeira vez
+Este projeto é apenas um "start" de configurações iniciais para um projeto web
+<span align="center" style='margin: 0 auto;font-wrap: nowrap;'><a href="https://www.linkedin.com/in/igor-silva-92ab657b/">
+    <img alt="Nexjs" src="https://avatars.githubusercontent.com/u/22380829?v=4" style="border-radius:50%; margin-top: 10px" width="20" height="20" />
+  </a><b>NEXTJS.</b></span>
 </h2>
 
 ## Rodando a aplicação no seu PC
@@ -27,4 +30,4 @@ Após essa instalação execute a aplicação com o comando `npm run dev`. A apl
 
 ## Contato
 
-[Email: devserigor@gmail.com](devserigor@gmail.com)
+[Linkedin](https://www.linkedin.com/in/igor-silva-92ab657b/)
